@@ -2,7 +2,7 @@
 
 ProWorkout Account is a good way to validate that you are the real person that is loggin into your account.
 
-Please read the TOS (terms of service) below.
+## Please read the TOS (terms of service) below.
 
 
 # Terms of Service (TOS)
