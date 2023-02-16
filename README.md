@@ -29,6 +29,10 @@ You can also use the proworkout list command to view a list of your past workout
 
 ``lua pro_workout.lua``
 
+### Through npm install:
+
+``npm install -g proworkout``
+
 ## Contributing to this project
 
 This is a 100% open source project. Contriubtions are allways welcome! 
