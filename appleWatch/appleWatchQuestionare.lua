@@ -1,3 +1,4 @@
+
 local function appleWatchQuestionnaire()
     local appleWatchDataFile = io.open("AppleWatchData.txt", "w")
 
