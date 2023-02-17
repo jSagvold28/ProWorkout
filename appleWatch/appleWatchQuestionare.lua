@@ -6,7 +6,7 @@ local function appleWatchQuestionnaire()
     io.write("What Apple Watch do you use: ")
     local appleWatchModel = io.read()
 
-    print("") 
+    print("")
     io.write("Your fitness goals:\n")
     print("")
 
@@ -27,5 +27,4 @@ local function appleWatchQuestionnaire()
 
     appleWatchDataFile:close()
 end
-
 appleWatchQuestionnaire()
