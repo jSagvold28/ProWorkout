@@ -1,11 +1,14 @@
 
 local function appleWatchQuestionnaire()
+
     local appleWatchDataFile = io.open("AppleWatchData.txt", "w")
 
     io.write("What Apple Watch do you use: ")
     local appleWatchModel = io.read()
 
+    print("")
     io.write("Your fitness goals:\n")
+    print("")
 
     io.write("Calories burnt per day: ")
     local caloriesBurntPerDayAppleWatch = io.read()
