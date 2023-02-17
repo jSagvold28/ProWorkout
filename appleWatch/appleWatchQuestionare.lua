@@ -26,5 +26,6 @@ local function appleWatchQuestionnaire()
     appleWatchDataFile:write("Stand hours: " .. standHoursAppleWatch .. " (per day)" .."\n")
 
     appleWatchDataFile:close()
+    
 end
 appleWatchQuestionnaire()
